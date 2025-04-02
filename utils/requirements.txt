@@ -1,0 +1,5 @@
+streamlit
+arabic-reshaper
+python-bidi
+pandas
+sqlalchemy
